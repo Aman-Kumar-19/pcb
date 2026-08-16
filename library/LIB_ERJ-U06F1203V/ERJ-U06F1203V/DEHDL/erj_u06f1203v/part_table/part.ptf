@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_U06F1203V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-U06F1203V" (!) = "", "ERJS06_U06_(0805)", "Other", "", "", "Anti-Sulfurated Thick Film Chip Resistor, 0805, 0.125W", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf", "0.7 mm"
+END_PART
+
+END.
